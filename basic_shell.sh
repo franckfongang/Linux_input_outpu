@@ -7,7 +7,7 @@ a=hostname
 echo hello, my saver name is $a
 echo
 echo what is your name?
-read namewho
+read b
 echo 
-echo Hello $namewho
+echo Hello $b
 echo
