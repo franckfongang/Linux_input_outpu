@@ -19,3 +19,5 @@ echo Hello $b
 echo your profession $c is awesome
 $ is a good show 
 echo
+echo what is your school name ?
+read e
